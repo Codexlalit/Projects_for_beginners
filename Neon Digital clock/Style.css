@@ -8,7 +8,7 @@
 .hero{
     width: 100%;
     min-height: 100vh;
-    background: url(bg.jpg);
+    background: url(Img/bg.jpg);
     background-size: cover;
     color: #fff;
     position: relative;
